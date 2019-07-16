@@ -1,6 +1,6 @@
-[0715/165637.554:ERROR:process_reader_win.cc(123)] NtOpenThread: {ÎŞ·¨·ÃÎÊ} ¹ı³ÌÒÑÇëÇó·ÃÎÊÒ»¶ÔÏó£¬µ«Î´¸ø·ÃÎÊÈ¨ÏŞ¡£ (0xc0000022)
+[0715/165637.554:ERROR:process_reader_win.cc(123)] NtOpenThread: {æ— æ³•è®¿é—®} è¿‡ç¨‹å·²è¯·æ±‚è®¿é—®ä¸€å¯¹è±¡ï¼Œä½†æœªç»™è®¿é—®æƒé™ã€‚ (0xc0000022)
 [0715/165637.556:ERROR:exception_snapshot_win.cc(98)] thread ID 19320 not found in process
-[0715/170853.769:ERROR:process_reader_win.cc(123)] NtOpenThread: {ÎŞ·¨·ÃÎÊ} ¹ı³ÌÒÑÇëÇó·ÃÎÊÒ»¶ÔÏó£¬µ«Î´¸ø·ÃÎÊÈ¨ÏŞ¡£ (0xc0000022)
+[0715/170853.769:ERROR:process_reader_win.cc(123)] NtOpenThread: {æ— æ³•è®¿é—®} è¿‡ç¨‹å·²è¯·æ±‚è®¿é—®ä¸€å¯¹è±¡ï¼Œä½†æœªç»™è®¿é—®æƒé™ã€‚ (0xc0000022)
 [0715/170853.770:ERROR:exception_snapshot_win.cc(98)] thread ID 20396 not found in process
-[0716/142947.038:ERROR:process_reader_win.cc(123)] NtOpenThread: {ÎŞ·¨·ÃÎÊ} ¹ı³ÌÒÑÇëÇó·ÃÎÊÒ»¶ÔÏó£¬µ«Î´¸ø·ÃÎÊÈ¨ÏŞ¡£ (0xc0000022)
+[0716/142947.038:ERROR:process_reader_win.cc(123)] NtOpenThread: {æ— æ³•è®¿é—®} è¿‡ç¨‹å·²è¯·æ±‚è®¿é—®ä¸€å¯¹è±¡ï¼Œä½†æœªç»™è®¿é—®æƒé™ã€‚ (0xc0000022)
 [0716/142947.040:ERROR:exception_snapshot_win.cc(98)] thread ID 17836 not found in process
