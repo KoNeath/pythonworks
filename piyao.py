@@ -30,7 +30,7 @@ for b in fire:
 item=zip(title,com)
 high=sorted(item,key=lambda x:x[1])
 print("本季最热门:\t")
-for a in high[-1:-11:-1]:
+for a in high[:-11:-1]:
     print(a[0],'\t',"评论数:",a[1],'\n')
     
 
